@@ -3,8 +3,6 @@ This page will not record anything. If you have something you want to say but ar
 
 If you too afraid , Please [download the index.html file](https://github.com/Kilumkothn/Tkkhs/raw/refs/heads/main/index.html) and run in your computer.
 
-It really don't save anything.
-
 Only you know that , Right?
 
 [Link to website](https://867678.xyz/tkkhs)
